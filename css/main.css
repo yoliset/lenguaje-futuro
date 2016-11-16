@@ -22,9 +22,12 @@ header {
     width: 960px;
 }
 header span {
-    border: 1px solid yellow;
-    background-color: darkgoldenrod;
-    padding: 10px;
+   
+    background-color: #fcb739;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-bottom: 5px;
+    padding-top: 5px;
    position: absolute;
     top: 60px;
     left: 100px;
@@ -54,7 +57,8 @@ header ul li {
     
 }
 .relleno h1{
-    font-size: 12px
+    font-size: 15px
+        
 }
 .final ul {
     text-decoration: none;
@@ -68,7 +72,7 @@ header ul li {
 .final
 {
     background-color:dimgrey;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 2px;
+    padding-top: 1px;
     width: 960px;
 }
