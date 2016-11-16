@@ -1,0 +1,74 @@
+/*
+	Inserta tu CSS aqui
+*/
+
+
+.hero .principal{
+     background: #333 url(../img/grupal.jpg)no-repeat;
+    width: 960px;
+    
+   
+    height: 550px;
+}
+header img {
+    width: 360px;
+    position: absolute;
+    left: 300px;
+    top: 70px;
+    
+}
+header {
+    position: relative;
+    width: 960px;
+}
+header span {
+    border: 1px solid yellow;
+    background-color: darkgoldenrod;
+    padding: 10px;
+   position: absolute;
+    top: 60px;
+    left: 100px;
+}
+header ul{
+    text-decoration: none;
+    position: relative;
+}
+header ul li {
+    display: inline-block;
+    position: relative;
+    left: 630px;
+    top: 30px;
+    
+}
+.relleno{
+    width:960px;
+}
+.relleno img{
+    width: 270px;
+    
+}
+.relleno div {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+.relleno h1{
+    font-size: 12px
+}
+.final ul {
+    text-decoration: none;
+    list-style: none;
+}
+.final li {
+    display: inline-block;
+    color:white;
+
+}
+.final
+{
+    background-color:dimgrey;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 960px;
+}
